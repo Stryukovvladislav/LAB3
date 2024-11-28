@@ -15,6 +15,7 @@ pip install -r requirements.txt
 ## Запуск
 Выполните команду:
 python main.py
+Укажите token access VK.
 Укажите ID пользователя VK.
 
 ## Результаты
